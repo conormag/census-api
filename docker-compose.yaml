@@ -1,0 +1,21 @@
+version: '3.7'
+
+services:
+  app:
+    container_name: app
+    image: app_image
+    env_file:
+      - .env
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/src
+    ports:
+      - "8000:8000"
+
+
+networks:
+  default:
+    external: true
+    name: app_main

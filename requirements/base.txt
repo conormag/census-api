@@ -1,0 +1,12 @@
+fastapi==0.89.1
+pydantic==1.10.4
+uvicorn==0.20.0
+beautifulsoup4==4.11.2
+pandas==1.5.3
+aiohttp==3.8.3
+lxml==4.9.2
+urllib3==1.26.14
+
+
+
+

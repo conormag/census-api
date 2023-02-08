@@ -1,0 +1,127 @@
+https://github.com/zhanymkanov/fastapi-best-practices
+
+First Build Only
+cp .env.example .env
+docker network create app_main
+docker compose up -d --build
+
+docker compose up
+
+1911
+  <!-- {
+    "surname": "Maguire",
+    "forename": "Edward",
+    "townland_street": "Baldoyle Town",
+    "ded": "Coolock, Part of",
+    "county": "Dublin",
+    "age": 17,
+    "sex": "M",
+    "birthplace": "Co Dublin",
+    "occupation": "Golf Caddie",
+    "religion": "Roman Catholic",
+    "literacy": "Read and write",
+    "irish_language": "",
+    "relation_to_head_of_household": "Son",
+    "marital_status": "Single",
+    "specified_illnesses": "",
+    "years_married": "",
+    "children_born": "",
+    "children_living": ""
+  },
+
+1901
+  {
+    "surname": "Maguire",
+    "forename": "Edward",
+    "townland_street": "Hardcastle Street",
+    "ded": "Windsor Ward",
+    "county": "Antrim",
+    "age": 3,
+    "sex": "M",
+    "birthplace": "Belfast",
+    "occupation": "Scholar",
+    "religion": "Roman Catholic",
+    "literacy": "Cannot read",
+    "irish_language": "",
+    "relation_to_head_of_household": "Son",
+    "marital_status": "Not Married",
+    "specified_illnesses": ""
+  },
+
+  1851:
+   {
+    "surname": "Maguire",
+    "forename": "Patrick",
+    "townland_street": "Moygarriff",
+    "family_id": 13,
+    "barony": "Upper Massereene",
+    "parish": "Ballinderry",
+    "county": "Antrim",
+    "age": "80",
+    "sex": "Male",
+    "age_in_months_if_under_one_year": "-",
+    "relation_to_head_of_household": "Head Of Family",
+    "marital_status": "Married",
+    "in_what_year(s)_married": "1836",
+    "occupation": "Pentions",
+    "education": "Cannot Read",
+    "native_country,_county,_or_city": "Down",
+    "cause_of_death": "-",
+    "year_of_death": "-"
+  },
+
+  1841:
+    {
+    "surname": "Maguire",
+    "forename": "Marget",
+    "townland_street": "Hermitage",
+    "family_id": "-",
+    "barony": "-",
+    "parish": "-",
+    "county": "Fermanagh",
+    "age": 8,
+    "sex": "Female",
+    "age_in_months_if_under_one_year": "-",
+    "relation_to_head_of_household": "?",
+    "marital_status": "?",
+    "in_what_year(s)_married": "?",
+    "occupation": "?",
+    "education": "?",
+    "native_country,_county,_or_city": "?",
+    "cause_of_death": "-",
+    "year_of_death": "-"
+  },
+
+  1831:
+    {
+    "surname": "Maguire",
+    "forename": "Margt",
+    "townland_street": "Waterside",
+    "house_number": 48,
+    "barony": "Coleraine",
+    "parish": "Killowen",
+    "county": "Londonderry",
+    "number_of_families_in_each": 1,
+    "number_of_males_in_family": "2",
+    "number_of_females_in_family": "3",
+    "number_of_male_servants": "-",
+    "number_of_female_servants": "-",
+    "number_in_established_church": "-",
+    "number_of_roman_catholics": "5",
+    "number_of_presbyterians": "-",
+    "number_of_other_protestants": "-"
+  },
+
+  1821:
+    {
+    "surname": "Maguire",
+    "forename": "?",
+    "townland_street": "Kilkeran",
+    "house_number": 28,
+    "parish": "Roserea",
+    "county": "King's",
+    "age": 50,
+    "occupation": "Labourer",
+    "relation_to_head_of_household": "-"
+  }, -->
+
